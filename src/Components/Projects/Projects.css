@@ -1,0 +1,25 @@
+.slider{
+    border: 2px solid red;
+    
+    padding: 200px;
+}
+
+.slider-blocks{
+    border: 2px solid yellow;
+    border-radius: 20px;
+padding: 10px;
+width: 80% !important;
+height: 80% !important;
+}
+
+.bordimage{
+    border: 2px solid rgb(0, 68, 255);
+    height: 30vh;
+    width: 100%;
+     border-radius: 20px;
+}
+
+.block-contnt{
+    border: 2px solid pink;
+    height: 200px;
+}
