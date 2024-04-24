@@ -5,7 +5,7 @@ import CarouselComponent from "./CarouselComponent";
 
 
 function Projects() {
-  return <div class="bg-green-300 h-screen">
+  return <div class="bg-[gray] h-screen">
 <CarouselComponent/>
   </div>;
 }
