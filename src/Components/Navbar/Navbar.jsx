@@ -16,21 +16,21 @@ function Navbar() {
 
   return (
     <div>
-      <div className="sm:w-full">
-        <div class=" hidden sm:flex flex-row justify-evenly item-center self-center text-xl pt-2">
-          <Link class="cursor-pointer" to="#about" smooth>
+      <div className="sm:w-full bg-[#fdbe8a] text-white h-[50px]">
+        <div class=" hidden sm:flex h-[100%] flex-row justify-evenly item-center self-center text-xl pt-2">
+          <Link class="cursor-pointer hover:text-[#eeeeee]" to="#about" smooth>
             About
           </Link>
-          <Link class="cursor-pointer" to="#education" smooth>
+          <Link class="cursor-pointer hover:text-[#eeeeee]" to="#education" smooth>
             Education
           </Link>
-          <Link class="cursor-pointer" to="#experience" smooth>
+          <Link class="cursor-pointer hover:text-[#eeeeee]" to="#experience" smooth>
             Experience
           </Link>
-          <Link class="cursor-pointer" to="#projects" smooth>
+          <Link class="cursor-pointer hover:text-[#eeeeee]" to="#projects" smooth>
             Projects
           </Link>
-          <Link class="cursor-pointer" to="#skills" smooth>
+          <Link class="cursor-pointer hover:text-[#eeeeee]" to="#skills" smooth>
             Skills
           </Link>
         </div>

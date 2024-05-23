@@ -18,14 +18,14 @@ function Home() {
         <div id="experience">
           <Experience />
         </div>
+        <div id="projects">
+          <Projects />
+        </div>
         <div id="education">
           <Education />
         </div>
         <div id="skills">
           <Skills />
-        </div>
-        <div id="projects">
-          <Projects />
         </div>
       </div>
     </div>
